@@ -1,3 +1,5 @@
+Vcpkg 可帮助您在 Windows、 Linux 和 MacOS 上管理 C 和 C++ 库
+
 # Vcpkg: Overview
 
 [中文总览](README_zh_CN.md)
